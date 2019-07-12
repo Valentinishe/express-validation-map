@@ -1,0 +1,12 @@
+{
+  "name": "express-validation-map",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["validations", "validation", "express"],
+  "author": "Valentinishe",
+  "license": "MIT"
+}
