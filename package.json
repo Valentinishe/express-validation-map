@@ -1,7 +1,8 @@
 {
   "name": "express-validation-map",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "",
+  "homepage": "https://github.com/Valentinishe/express-validation-map",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
