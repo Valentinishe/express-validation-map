@@ -1,6 +1,6 @@
 {
   "name": "express-validation-map",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/Valentinishe/express-validation-map",
   "main": "index.js",
@@ -13,6 +13,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["validations", "validation", "express"],
-  "author": "Valentinishe",
+  "author": "Valentinishe <valentynishe@gmail.com>",
   "license": "MIT"
 }
