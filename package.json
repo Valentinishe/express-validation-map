@@ -4,6 +4,11 @@
   "description": "",
   "homepage": "https://github.com/Valentinishe/express-validation-map",
   "main": "index.js",
+  "repository": {
+    "url": "Valentinishe/express-validation-map",
+    "type": "git"
+  },
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
